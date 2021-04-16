@@ -1,0 +1,12 @@
+body{
+	background-color: 	#f8ce54;
+
+}
+
+.container{
+	background-color: rgba(133, 244, 246, 0.8);
+	margin-top: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 5px;
+}
