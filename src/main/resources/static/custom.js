@@ -1,3 +1,7 @@
+
+
+
+
 $(document).ready(function() {
   $('.unfollow_btn').hover(function(){
     $(this).removeClass('btn-primary');
@@ -9,3 +13,4 @@ $(document).ready(function() {
     $(this).addClass('btn-primary');
   });
 })
+
